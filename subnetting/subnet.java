@@ -1,6 +1,6 @@
-import java.io. * ;
-import java.util. * ;
-import java.lang.Math. * ;
+import java.io.* ;
+import java.util.* ;
+import java.lang.Math.* ;
 class subnet 
 {
 	public static void main(String args[])
